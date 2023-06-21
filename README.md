@@ -15,8 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="Foto do projeto" src=".github/preview.jpg" width="100%">
+  <img alt="Foto do projeto" src=".github/preview.JPG" width="100%">
 </p>
 
 ## &#x1F517; Link:
-Link do projeto pronto : 
+Link do projeto pronto: https://jeffbveiga.github.io/Desafio-Curso-em-video/ 
